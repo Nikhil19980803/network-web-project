@@ -1,0 +1,36 @@
+<settings>
+
+<servers>
+  <server>
+    <id>network-network-devops-cicd</id>
+    <username>aws</username>
+    <password>eyJ2ZXIiOjEsImlzdSI6MTc0OTUzMjk0MiwiZW5jIjoiQTEyOEdDTSIsInRhZyI6IjJKTlpCcm02azB1MnU5b1BfMTcwNFEiLCJleHAiOjE3NDk1NzYxNDIsImFsZyI6IkExMjhHQ01LVyIsIml2IjoiYlNZWTdaMkNRcTFMb0hvQiJ9.X0VUgOW6u8Y3NglVSqs88Q.5LJTa8-xIGqLy1Vf.DswVsDH3bI4BnWTQqJb6liHbam6J0tmUiawjr5tZgsPnJBCFkjnzZcCYW6Dm97k3MqXAcLjYpKP4FUFGWvCPbOLgzzoIgatmW3KOJTdVal0R2ZTZ2AP-5gqDVdF5Qsps1baw0v5tOHflcOysBZMptpNzCTwYby4cq_zpIlCuQhyXLnusXK_Ibnl_9PwE2xrXeIKobi2hQj74BlFaYJ3YAviJhyC0Dj1eWYWebDFTRNOE1HJKDDQ7hsQlHgi6gI8HcEF_kqpo8fs0AEAs-eJgd1IEmwt4wEG2F_C0toTYJQfDvZO4CMXUx8ce_nnXuvLxwL44YNjSh4uyahUWQr-Rvgr2DdcD1ujTdbXGIVExaRrM08yudlkUC8o6n6Y7xs0D0NNK97V59kaxJKQ-07D8HaNs-E2W3lARr_rqlQeXJbtZ1yK7_ryVMD7nnikkDiazwZ_GK0KA_qKwZNZPwy_i0K7XyCaLB4YIRsi1FjKrE-gjhJSjXlZDLWsHSeFnxw3XN64qOpefAgCiayAqXAZgTaJwduEhsbAJlfC_6a6xoLRCVqBHkLukJH7MvpKBstsP5pIjZQ4SO6kmezIIdqYW0nLALFxfnd_nU_N67x9HZWnZaSGPREORfjpiRFdWQsTBMzgwi34K6MhcfefQcfIQSXkHeW5G15Ja5vbmTQLmd_dilwb5HnxsqlN0xnhLkd408O3qmkJ1iL3rnnXxuo-Hb2qxyb0AmKIdjRA2_mC8trDsOuSDkxfcrdkEYfGXlOIJVg0OPZQoD-B0TNIh0p1pDTnH7VQ6vGLDlgdoTywkbfOqDU4btn-txXXDjwtNGtrPT6wVLNd9O8IEJJYVGxYzknn-AHYAl3zIpFtTGJGP_t4rxLeWyq1oC3aYBRjzt36gW6yKvrtERYm8hsV2CUUX7SfQFeeZx3Tk3w6fWGamWHPefmz4Bb3dAZe_4WUYqeguIUcu8h2kjx7WKoC1vm3K2pCUq82BJg-T-JsZOxWfjL5zry0b1jGIiZZQy9imC-HK97rSu_rqluF2vrZg9p4rBMS2KEDeO1-0VsZU5ZitcvuyIDlIroCwg-bQ1mqJvKzdG14VVfFbpdNS3qEGvPUkKnoVTjun7arKpN9-UMF1OFivtMAfPcKSOZ6iO0PosQde1KtkHFKXPPWXhOeRu8WjqkyVlpM7SGyBq6d_tdsO2tV0yoA1xnX3CbqTL7a-0vrT4p4gDKLOxM4ILjV2N23Cz1DPt7hYl8dha2M1YRmkNRGbEKe9Kph13KBNwehImR1rOiYhVvmFpgNVeSftq5BZUzbNwl-m8y1j5goFDfyUM2FeyF4OjHkS_5RYz0KxTDR8CDJWty0NjO0wQsA5ppnXsAKC-fX-kS-65gTYJ44FUXv4G8eqedvDbiEVIgPexlFeKhWbINeF6GlOftJWdKKunyrW0rC1-57z0ORYp9TS5KfDVJFFMFC4z9owYI__mHzctU1T7biK2NFzqRiMOMJTyUuIYViGsSipZmNZWffPo1nJJ3_nNsxqEdc7jOJBFqWQnRPS5PUdHHBtIrw9R_KkFIdfz0tPDNXs6Y0n4Bm6BUVn6TX4R7OxUILBjjpVcLNJ8Zxr0UwkIFiJPOEPoygP4Lo0hhledBvbz4-TYC1vNxvpSzKqD4vsJx_1mnXGymGg4RsqimphcmeRXnPrfAXi05p5VKxcUGaxSFcuAFxX_sAgtLw6z6x4NK2EDvewejIAdr0ul8iA3_VwBp0-0LXzxLDrKFLemZOzmwIj22gYDBAOZYL8IFEVtSRDrbMZnQxGNwIGp5Mhf5f5xYfTWEZ5PW4-hHqpZLiYe3F0ToeOZST4ImldgAGnbBrFaI-54Ti5S5MZRYuTC8IC1BoS60-P1_wQhEQPpy-bLnZv3wQnvh_rNrtsvCdxY48A1tph.8Ovz_Ib7j7FvzQNL8Sr3iA</password>
+  </server>
+</servers>
+
+<profiles>
+  <profile>
+    <id>network-network-devops-cicd</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>network-network-devops-cicd</id>
+        <url>https://network-867973538902.d.codeartifact.eu-north-1.amazonaws.com/maven/network-devops-cicd/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
+
+
+<mirrors>
+  <mirror>
+    <id>network-network-devops-cicd</id>
+    <name>network-network-devops-cicd</name>
+    <url>https://network-867973538902.d.codeartifact.eu-north-1.amazonaws.com/maven/network-devops-cicd/</url>
+    <mirrorOf>*</mirrorOf>
+  </mirror>
+</mirrors>
+
+</settings>
